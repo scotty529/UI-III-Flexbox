@@ -63,4 +63,105 @@ h1, h2, h3, h4, h5 {
     margin-bottom: 15px;
 }
 
-/* Copy and paste your work from yesterday here and start to refactor into flexbox */
+.please_work {
+
+   
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-top: 20px;
+    
+}
+
+.sectionone {
+
+    display:flex;
+
+ 
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.header_main {
+
+    font-size: 75px;
+    text-align:center;
+
+}
+
+.button {
+
+    font-size: 25px;
+    border: solid 1px black;
+}
+.topSection {
+
+    display:flex;
+    border: solid 2px red;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-top: 20px;
+
+
+}
+
+.titles {
+
+    display:flex;
+    border: solid 2px red;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+.bottom-section {
+
+    display:flex;
+    border: solid 2px red;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+    margin-top: 20px;
+    
+
+
+}
+
+.middle-img {
+    
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+
+}
+
+.section_1 {
+
+    display: flex;
+    flex-direction: column;
+}
+
+test {
+
+	test;
+}
+
+.logo {
+
+	border: solid 2px red;
+	padding-bottom: 50px;
+
+}
+
+.header_services
+
+{
+	width: 85%;
+}
